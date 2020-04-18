@@ -1,5 +1,5 @@
 import React from 'react';
-import Janelogo from '../../assets/images/janelogo.jpg'
+//import Janelogo from '../../assets/images/janelogo.jpg'
 
 function Project(props){
 
